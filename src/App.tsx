@@ -34,7 +34,7 @@ const AnimatedRoutes = () => {
           animate={{ opacity: 1, y: 0 }}
           exit={{ opacity: 0, y: -10 }}
           transition={{ duration: 0.3 }}
-          className="min-h-screen pt-20" // Navbar ke liye padding
+          className="min-h-screen pt-18" // Navbar ke liye padding
         >
           <Routes location={location}>
             <Route path="/" element={<Index />} />

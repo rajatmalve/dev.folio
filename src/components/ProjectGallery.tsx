@@ -12,7 +12,7 @@ const projects = [
     category: "Web App",
     tags: ["React", "TypeScript", "D3.js"],
     image: "linear-gradient(135deg, hsl(200 50% 18%), hsl(220 40% 12%))",
-    imageSrc: "/placeholder.svg",
+    imageSrc: "",
   },
   {
     title: "Solara Commerce",
@@ -20,7 +20,7 @@ const projects = [
     category: "E-Commerce",
     tags: ["React", "Stripe", "Node.js"],
     image: "linear-gradient(135deg, hsl(38 50% 18%), hsl(28 40% 12%))",
-    imageSrc: "/placeholder.svg",
+    imageSrc: "",
   },
   {
     title: "Veritas Legal",
@@ -28,7 +28,7 @@ const projects = [
     category: "Landing Page",
     tags: ["React", "Tailwind", "Framer Motion"],
     image: "linear-gradient(135deg, hsl(150 30% 16%), hsl(160 25% 10%))",
-    imageSrc: "/placeholder.svg",
+    imageSrc: "",
   },
   {
     title: "FlowState API",
@@ -36,7 +36,7 @@ const projects = [
     category: "API",
     tags: ["Node.js", "PostgreSQL", "Redis"],
     image: "linear-gradient(135deg, hsl(270 30% 18%), hsl(260 25% 12%))",
-    imageSrc: "/placeholder.svg",
+    imageSrc: "",
   },
   {
     title: "Canopy Health",
@@ -44,7 +44,7 @@ const projects = [
     category: "Web App",
     tags: ["React", "Supabase", "Tailwind"],
     image: "linear-gradient(135deg, hsl(170 40% 16%), hsl(180 35% 10%))",
-    imageSrc: "/placeholder.svg",
+    imageSrc: "",
   },
   {
     title: "Atlas Maps",
@@ -52,7 +52,7 @@ const projects = [
     category: "Web App",
     tags: ["React", "Mapbox", "TypeScript"],
     image: "linear-gradient(135deg, hsl(210 40% 18%), hsl(200 35% 12%))",
-    imageSrc: "/placeholder.svg",
+    imageSrc: "",
   },
 ];
 

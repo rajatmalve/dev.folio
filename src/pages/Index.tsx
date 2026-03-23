@@ -63,7 +63,7 @@ const Index = () => {
                 <div className="rounded-2xl border border-border/50 bg-card/60 backdrop-blur-xl overflow-hidden p-6 glow-border">
                   <div className="aspect-[4/3] rounded-xl overflow-hidden border border-border/50 bg-secondary relative">
                     <img
-                      src="/placeholder.svg"
+                      src="image\ModernTact.jpg"
                       alt="Creative studio preview"
                       className="absolute inset-0 h-full w-full object-cover opacity-95"
                       loading="lazy"
